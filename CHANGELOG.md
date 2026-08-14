@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-19)
+## Unreleased (2026-08-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`75cbfe8`](https://github.com/stdlib-js/stdlib/commit/75cbfe8618e8d81293eefba72f9a651e786f37a0) - **bench:** fix description and update variable names in `blas/base/ndarray` [(#14261)](https://github.com/stdlib-js/stdlib/pull/14261) _(by Philipp Burckhardt)_
 -   [`2780757`](https://github.com/stdlib-js/stdlib/commit/2780757ca6daae57598a53022837a497e55b8d41) - **style:** re-enable lint rule [(#13554)](https://github.com/stdlib-js/stdlib/pull/13554) _(by Philipp Burckhardt)_
 -   [`ab53d74`](https://github.com/stdlib-js/stdlib/commit/ab53d7466277d5df60dc82470a77e9e08f386c77) - **feat:** add `blas/base/ndarray/ggemv` [(#12908)](https://github.com/stdlib-js/stdlib/pull/12908) _(by Kaustubh Patange, Athan Reines)_
 
